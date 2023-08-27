@@ -1,4 +1,10 @@
+Download the game installer from GitHub.
+Run the installer " Test.EXE " and follow the on-screen instructions.
+Choose the installation directory and complete the installation process.
+
+
 Game Overview:
+
 first blood is an exciting new game that combines elements of a 2D sword fighting game with a gore and blood syste,. Immerse yourself in a captivating world filled with challenges, adventures, and endless fun.
 
 Controls:
@@ -21,11 +27,8 @@ Features:
 [Feature 2]: Describe another key aspect that sets your game apart.
 [Feature 3]: Briefly explain a third feature to intrigue the players.
 
-Download the game installer from GitHub.
-Run the installer " Test.EXE " and follow the on-screen instructions.
-Choose the installation directory and complete the installation process.
-Support:
-For any technical issues, suggestions, or feedback, please contact our support team at First Blood.
+
+For any technical issues, suggestions, or feedback, please contact our support team at FirstBlood@gmail.com.
 
 Credits:
 We want to express our gratitude to the talented individuals whose work helped shape this game.
