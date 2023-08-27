@@ -1,5 +1,5 @@
 Game Overview:
-[first blood] is an exciting new game that combines elements of a 2D sword fighting game with a gore and blood syste,. Immerse yourself in a captivating world filled with challenges, adventures, and endless fun.
+first blood is an exciting new game that combines elements of a 2D sword fighting game with a gore and blood syste,. Immerse yourself in a captivating world filled with challenges, adventures, and endless fun.
 
 Controls:
 
